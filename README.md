@@ -4,13 +4,13 @@
 |:------:|---------------------------|---------------------------|:--------------:|:-----------:|
 | US01 | Como usuário, desejo realizar meu cadastro para acessar o sistema. | Permitir que novos usuários criem uma conta fornecendo informações básicas. | Alta | Concluído |
 | US02 | Como usuário, desejo efetuar login no sistema. | Garantir autenticação segura com criptografia de senha. | Alta | Concluído |
-| US03 | Como usuário, desejo abrir um chamado técnico. | Possibilitar o registro de um novo chamado, informando título, descrição e categoria. | Alta | Em desenvolvimento |
-| US04 | Como técnico, desejo visualizar chamados abertos. | Exibir lista de chamados pendentes para tratamento. | Alta | Em desenvolvimento |
-| US05 | Como usuário, desejo acompanhar o status do meu chamado. | Permitir que o usuário veja atualizações e respostas. | Média | A fazer |
-| US06 | Como técnico, desejo classificar chamados automaticamente com IA. | Implementar sugestão de solução automática com base em histórico. | Alta | A fazer |
-| US07 | Como administrador, desejo gerenciar usuários do sistema. | Criar painel de controle para edição, ativação e remoção de contas. | Média | A fazer |
-| US08 | Como usuário, desejo receber notificação de atualização do chamado. | Enviar alerta quando houver mudança de status ou resposta. | Média | Planejado |
-| US09 | Como gestor, desejo visualizar relatórios e métricas do sistema. | Exibir dados estatísticos e indicadores de desempenho. | Baixa | Planejado |
+| US03 | Como usuário, desejo abrir um chamado técnico. | Possibilitar o registro de um novo chamado, informando título, descrição e categoria. | Alta | Concluído |
+| US04 | Como técnico, desejo visualizar chamados abertos. | Exibir lista de chamados pendentes para tratamento. | Alta | Concluído |
+| US05 | Como usuário, desejo acompanhar o status do meu chamado. | Permitir que o usuário veja atualizações e respostas. | Média | Concluído |
+| US06 | Como técnico, desejo classificar chamados automaticamente com IA. | Implementar sugestão de solução automática com base em histórico. | Alta | Concluído |
+| US07 | Como administrador, desejo gerenciar usuários do sistema. | Criar painel de controle para edição, ativação e remoção de contas. | Média | Concluído |
+| US08 | Como usuário, desejo receber notificação de atualização do chamado. | Enviar alerta quando houver mudança de status ou resposta. | Média | Concluído |
+| US09 | Como gestor, desejo visualizar relatórios e métricas do sistema. | Exibir dados estatísticos e indicadores de desempenho. | Baixa | Concluído |
 
 ---
 
